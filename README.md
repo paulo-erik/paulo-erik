@@ -1,15 +1,17 @@
-### Oii! eu sou o Paulo Erik
+###
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d83a7c&size=35&center=true&vCenter=true&width=1000&lines=Oii,+meu+nome+e+Paulo+Erik;Tenho+22+anos;Eu+moro+em+Itu,+SP;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=paulo-erik&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Atualmente estou trabalhando no setor de laboratorio de uma empresa
-- 👨🏼‍🎓 Cursando Analise e Desenvolvimento de sistemas
-- 🌱 Estudando HTML, CSS, JavaScript, ReactJs, etc...
-- 🌎 Sao paulo - Brasil
-- 🤵🏻 Idade: 22 anos
-- 📫 Contate-me por email: Bonicoc2@gmail.com
-- ☎️ Contate-me pelo Whatsapp: +55 (15) 99148-3787
-
+<P align='center'>
+- 🔭 Atualmente estou trabalhando no setor de laboratorio de uma empresa<br>
+- 👨🏼‍🎓 Cursando Analise e Desenvolvimento de sistemas<br>
+- 🌱 Estudando HTML, CSS, JavaScript, ReactJs, etc...<br>
+- 📫 Contate-me por email: Bonicoc2@gmail.com<br>
+- ☎️ Contate-me pelo Whatsapp: +55 (15) 99148-3787<br>
+</p>
 ##
 
 <div align="center">
@@ -17,8 +19,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulo-erik&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-erik&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
- ##
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
